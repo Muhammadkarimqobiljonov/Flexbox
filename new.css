@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 1160px;
+    height: 830px;
+    background-color: rgb(52, 60, 86);
+    margin: auto;
+    margin-top: 58px;
+    margin-bottom: 133px;
+    border-radius: 40px;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.display{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    border-radius: 30px;
+    text-align: center;
+    justify-content: space-around;
+    margin-top: 60px;
+    color: white;
+}
+.displayflex{
+    margin-top: 10px;
+    font-size: 15px;
+    
+}
+.rasm{
+    position: absolute;
+    margin-top: 112px;
+    margin-left: 60px;
+
+}
+.video{
+    position: absolute;
+    margin-top: 112px;
+    margin-left: 690px;
+    margin-right: 60px;
+
+}
+.flexbox{
+    width: 250px;
+    height: 100px;
+    background-color: black;
+    border-radius: 40px;
+    color: white;
+    margin: auto;
+    display: flex;
+    margin-top: 350px;
+    font-size: 25px;
+}
+.soz{
+    margin-top: 33px;
+    margin-left: 80px;
+}
+.capitan{
+   display: flex;
+   justify-content: space-around;
+}
+.red{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+
+}
+.green{
+    width:300px ;
+    height:109px ;
+    background-color: greenyellow;
+    margin: auto;
+    
+}
+.yellow{
+    text-align: center;
+    font-size: 14px;
+    margin: auto;
+    margin-top: 27px;
+}
+.yellowone{
+    margin-top:17px ;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.yellow, .yellowone{
+    color: black;
+    font-weight:bold ;
+  
+    
+}
